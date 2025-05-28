@@ -3,7 +3,7 @@ Technical skills: R, Python, SQL
 
 ### Education
 - Ph.D., Quantitative Methods and Computational Psychology,  *University of Southern California*
-- M.A., Quantitative Methods and Computational Psychology, *University of Southern California*
+- M.A., Quantitative Methods and Computational Psychology,  *University of Southern California*
 - B.S., Mathematics and Psychology,  *Dickinson College*
 
 ### Work Experience
