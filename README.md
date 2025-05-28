@@ -1,4 +1,4 @@
-# Research Scientist/Psychometrician
+# Research Scientist
 Technical skills: R, Python, SQL
 
 ### Education
