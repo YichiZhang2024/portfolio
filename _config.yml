@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Yichi Zhang
+logo: /assets/img/headshot.jpeg
 theme: jekyll-theme-minimal
