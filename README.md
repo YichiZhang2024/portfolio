@@ -21,12 +21,12 @@ Researcher @American Institutes for Research
 
 3. **Zhang, Y.,** & Lai, M. H. C. (2024). Evaluating two small-sample corrections for fixed-effects standard errors and inferences in multilevel models with heteroscedastic, unbalanced, clustered data. *Behavior Research Methods*. Advance online publication. https://doi.org/10.3758/s13428-023-02325-9
 
-4. Ozturk, E. D., **Zhang, Y.,**, Lai, M. H. C., Sakamoto, M. S., Chanfreau-Coffinierd, C., & Merritt, V.C. (2023). Measurement invariance of the Neurobehavioral Symptom Inventory (NSI) in male and female Million Veteran Program (MVP) enrollees completing the Comprehensive Traumatic Brain Injury Evaluation (CTBIE). *Assessment*. Advance online publication. https://doi.org/10.1177/10731911231198214
+4. Ozturk, E. D., **Zhang, Y.**, Lai, M. H. C., Sakamoto, M. S., Chanfreau-Coffinierd, C., & Merritt, V.C. (2023). Measurement invariance of the Neurobehavioral Symptom Inventory (NSI) in male and female Million Veteran Program (MVP) enrollees completing the Comprehensive Traumatic Brain Injury Evaluation (CTBIE). *Assessment*. Advance online publication. https://doi.org/10.1177/10731911231198214
 
-5. Tse, W. W., Lai, M. H. C., & **Zhang, Y.,** (2023). Does strict invariance matter? Valid group mean comparisons with ordered-categorical items. *Behavior Research Methods*. Advance online publication. https://doi.org/10.3758/s13428-023-02247-6
+5. Tse, W. W., Lai, M. H. C., & **Zhang, Y.** (2023). Does strict invariance matter? Valid group mean comparisons with ordered-categorical items. *Behavior Research Methods*. Advance online publication. https://doi.org/10.3758/s13428-023-02247-6
 
 6. **Zhang, Y.,** Kim, Y., & Zheng, X. (2023). Investigating measurement invariance in NAEP student questionnaire index items. [AIR-NAEP Working Paper]. Washington, DC: American Institutes for Research.
 
 7. **Zhang, Y.,** Lai, M. H. C., & Palardy, G. J. (2023). A Bayesian region of measurement equivalence (ROME) approach for establishing measurement invariance. *Psychological Methods, 28*(4), 993–1004. https://doi.org/10.1037/met0000455 
 
-8. Lai, M. H. C., & **Zhang, Y.,** (2022). Classification accuracy of multidimensional tests: Quantifying the impact of noninvariance. *Structural Equation Modeling, 29*(4), 620–629. https://doi.org/10.1080/10705511.2021.1977936
+8. Lai, M. H. C., & **Zhang, Y.** (2022). Classification accuracy of multidimensional tests: Quantifying the impact of noninvariance. *Structural Equation Modeling, 29*(4), 620–629. https://doi.org/10.1080/10705511.2021.1977936
